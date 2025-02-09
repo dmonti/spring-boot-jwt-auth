@@ -1,6 +1,5 @@
 package com.dmonti.domain.entity
 
-import com.dmonti.domain.entity.Account
 import jakarta.persistence.*
 import jakarta.persistence.GenerationType.SEQUENCE
 import java.time.Instant

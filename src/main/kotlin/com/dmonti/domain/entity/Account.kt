@@ -1,7 +1,5 @@
 package com.dmonti.domain.entity
 
-import com.dmonti.domain.entity.AccountPassword
-import com.dmonti.domain.entity.Role
 import jakarta.persistence.*
 import jakarta.persistence.CascadeType.ALL
 import jakarta.persistence.GenerationType.SEQUENCE
